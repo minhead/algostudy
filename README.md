@@ -1,2 +1,0 @@
-# algostudy
-study  baekjoon
